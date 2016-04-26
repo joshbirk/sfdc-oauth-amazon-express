@@ -1,0 +1,11 @@
+{
+  "name": "sfdc-oauth-amazon-express",
+  "version": "0.0.5",
+  "description": "Creates an endpoint for Express to handle token request and response from Amazon's Code Grant to Salesforce",
+  "main": "index.js",
+  "author": "joshbirk",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "sync-request": "*"
+  }
+}
